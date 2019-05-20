@@ -207,6 +207,12 @@ if [ -e $cwd/swag/npm ]; then
 	done
 fi
 
+chapter "General fixes"
+
+# Fixes key repeat for VSCode
+# https://github.com/aioutecism/amVim-for-VSCode/issues/93
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+
 
 ###############################################################################
 # OPTIONAL: Customizations
