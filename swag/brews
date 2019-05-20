@@ -2,8 +2,8 @@ asciinema
 git
 tig
 mas
-wget
+curl
 hub
 hugo
 yarn
-rbenv
+ocaml
