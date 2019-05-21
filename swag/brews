@@ -8,3 +8,4 @@ hugo
 yarn
 ocaml
 opam
+redis
