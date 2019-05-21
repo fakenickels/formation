@@ -9,3 +9,4 @@ yarn
 ocaml
 opam
 redis
+postgres
