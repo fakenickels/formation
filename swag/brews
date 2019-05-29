@@ -10,3 +10,4 @@ ocaml
 opam
 redis
 postgres
+gmp
