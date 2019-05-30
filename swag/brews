@@ -11,3 +11,4 @@ opam
 redis
 postgres
 gmp
+imagemagick
