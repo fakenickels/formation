@@ -12,3 +12,4 @@ redis
 postgres
 gmp
 imagemagick
+jq
