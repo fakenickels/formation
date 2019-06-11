@@ -13,3 +13,4 @@ postgres
 gmp
 imagemagick
 jq
+openssl
